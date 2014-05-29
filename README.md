@@ -22,7 +22,7 @@ Notebook
 ========
 In addition to the data we've also provided the calculations performed to convert discrete events into durations. This is included as an [IPython notebook](http://ipython.org/notebook.html).
 
-To run, assuming you're already in the grasp-data directory:
+To run, assuming you're already in the grasp-data directory and MongoDB is running:
 
     sudo easy_install virtualenv
     virtualenv .
