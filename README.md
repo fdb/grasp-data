@@ -14,7 +14,7 @@ Run the MongoDB server:
 
 Then, in another shell, restore the data from the data set:
 
-    git clone git://github.com/fdb/grasp-data
+    git clone https://github.com/fdb/grasp-data.git
     cd grasp-data
     mongorestore
 
